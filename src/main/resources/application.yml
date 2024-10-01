@@ -1,0 +1,9 @@
+server:
+  port: 8139
+  servlet:
+    context-path: /api
+swapi:
+  client:
+    access-key: CWL2bTNn8co6SScwBLr8T79bmLwyPwEf
+    secret-key: TTLqtqlvuX4lcJLMu+xxkgWcffex+hP4pzUQgODwljU=
+    url: http://localhost:8139
